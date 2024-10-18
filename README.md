@@ -1,4 +1,4 @@
-# sequenze_tech
+# seequenze_tech
 
 A new Flutter project.
 
